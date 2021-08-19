@@ -2,7 +2,15 @@
 
 operation of java will be covered here*/
 
-//  The information can get from this program :
+
+
+///-------------Question-------------------
+
+/* A retailed buys a radio from the wholesaler for tk 80. He then marksup the price by 25% to get a expected profit and also sales a 
+a discount 10%.What is his profit on the radio ???  */
+
+
+//  The information we can get from this program :
 //
 //  --- Needed selling price for certain amount of profit and loss in percentage
 //  --- Any Discount rate or not 
